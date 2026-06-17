@@ -1,6 +1,6 @@
 #List and Dictionaries
 #Lists
-'''
+
 my_list = ["Basu", "Lakki", "Poorvi", "Nihal"]
 print(my_list)
 
@@ -76,7 +76,6 @@ print(newlist)
 my_list.sort()    #sort values in ascending,alphanumerically
 print(my_list)
 
-'''
 
 
 #Dictionary
@@ -127,3 +126,6 @@ myfamily = {
 }
 
 print(myfamily["child2"]["name"])
+
+
+#copy,delete,add,update,remove,clear and get all are same as like list for dictionary
