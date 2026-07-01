@@ -1,0 +1,9 @@
+Revise all the topics of week
+Refactor all code
+Push everything to GitHub
+
+Learn:
+git init
+commit
+branch
+push
